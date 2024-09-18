@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick
-- 🏳️ I live in The Netherlands
+- 🇳🇱 I live in The Netherlands
 - 🌱 I’m currently studying Game Development at Amsterdam University of Applied Sciences
 
 <!---
